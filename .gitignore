@@ -1,10 +1,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-
+feature_.py
 # C extensions
 *.so
-
+file
 # Distribution / packaging
 .Python
 env/
@@ -28,7 +28,7 @@ var/
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
-
+model.py
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
